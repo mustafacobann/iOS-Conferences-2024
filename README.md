@@ -5,7 +5,7 @@ iOS conferences that are going to take place in 2024
 | :--: | :--: | :--: | :--: | :--: | 
 | 18-19 Jan 2024 | iOS Conf SG | Singapore 🇸🇬 | - | https://iosconf.sg/ |
 | 22-24 Mar 2024 | try! Swift | Tokyo, Japan 🇯🇵 | - | https://tryswift.jp/_en |
-| 10-11 Apr 2024 | NYSwifty | NYC, USA 🇺🇸 | 30 Nov 2024 | https://nyswifty.com/ |
+| 10-11 Apr 2024 | NYSwifty | NYC, USA 🇺🇸 | 30 Nov 2023 | https://nyswifty.com/ |
 | 18-19 Apr 2024 | Swift Heroes | Turin, Italy 🇮🇹 | - | https://swiftheroes.com/2024 |
 | 5-7 May 2024 | Deep Dish Swift | Chicago, USA 🇺🇸 | 31 Jan 2024 | https://deepdishswift.com/ |
 | 29-30 May 2024 | plSwift | Krakow, Poland 🇵🇱 | 11 Dec 2023 | https://plswift.com/ |
