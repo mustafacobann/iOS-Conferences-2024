@@ -13,3 +13,4 @@ iOS conferences that are going to take place in 2024
 | 21-24 May 2024 | Swift Craft | Kent, UK 🇬🇧 | 5 Jan 2024 | https://swiftcraft.uk |  
 | 29-30 May 2024 | plSwift | Krakow, Poland 🇵🇱 | 11 Dec 2023 | https://plswift.com/ |
 | 2-5 Sep 2024 | iOSDevUK | Aberystwyth, UK 🇬🇧 | 5 Feb 2024 | https://www.iosdevuk.com |
+| 8-9 Oct 2024 | SwiftLeeds | Leeds, UK 🇬🇧 | TBA | https://swiftleeds.co.uk |
