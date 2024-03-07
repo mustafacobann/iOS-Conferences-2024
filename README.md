@@ -14,4 +14,4 @@ iOS conferences that are going to take place in 2024
 | 27-29 Aug 2024 | Swift Island | Texel, Netherlands 🇳🇱 | - | https://swiftisland.nl/ |  
 | 2-5 Sep 2024 | iOSDevUK | Aberystwyth, UK 🇬🇧 | 5 Feb 2024 | https://www.iosdevuk.com |
 | 8-9 Oct 2024 | SwiftLeeds | Leeds, UK 🇬🇧 | TBA | https://swiftleeds.co.uk |  
-| 13-14 Nov 2024 | Do iOS | Amsterdam, Netherlands 🇳🇱 | TBA | https://do-ios.com |  
+| 13-14 Nov 2024 | Do iOS | Amsterdam, Netherlands 🇳🇱 | 31 July 2024 | https://do-ios.com |  
