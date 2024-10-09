@@ -16,5 +16,6 @@ iOS conferences that are going to take place in 2024
 | 18-19 Sep 2024 | NSSpain 2024 | Logroño, Spain 🇪🇸 | 24 June 2024 | https://2024.nsspain.com |  
 | 23-24 Sep 2024 | Swift Connection | Paris, France 🇫🇷 | - | https://swiftconnection.io |  
 | 8-9 Oct 2024 | SwiftLeeds | Leeds, UK 🇬🇧 | 30 April 2024 | https://swiftleeds.co.uk |  
+| 25 Oct 2024 | KWDC24 | Seoul, Korea 🇰🇷 | 23 June 2024 | https://kwdc.dev | 
 | 29-30 Oct 2024 | PragmaConf | Bologna, Italy 🇮🇹 | 30 June 2024 | https://pragmaconference.com |  
 | 13-14 Nov 2024 | Do iOS | Amsterdam, Netherlands 🇳🇱 | 31 July 2024 | https://do-ios.com |  
